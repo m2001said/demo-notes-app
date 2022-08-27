@@ -7,7 +7,10 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import { BrowserRouter as Router } from "react-router-dom";
 import { Amplify } from "aws-amplify";
 import config from "./config";
+/////////
+import { initSentry } from "./lib/errorLib";
 
+initSentry();
 ///////////////////////////////////
 const root = ReactDOM.createRoot(document.getElementById("root"));
 ///////////////////////////////////
@@ -47,3 +50,4 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+///////////
