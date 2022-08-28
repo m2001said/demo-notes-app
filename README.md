@@ -6,6 +6,15 @@
 ## 1-the app entry
 ![the app entry](https://user-images.githubusercontent.com/91760639/187059015-97fdf915-69d7-4620-b104-84448deabaad.jpg)
 
+
+## 1-you should signup for the first time
+![you should signup for the first time](https://user-images.gith![Uploading finally,after logoutting you will returnand you should login.jpg…]()
+ubusercontent.com/91760639/187059242-af921cfb-c304-45e9-b46e-6cf86ce84388.jpg)
+
+## 1-you will find a verfication message at your email
+![you will find a verfication message at your email](https://user-images.githubusercontent.com/91760639/187059278-6ea19ff5-826f-4459-a64c-fb46e37a2f0e.jpg)
+
+
 ## then you verivy with your email
 ![then you verivy with your email](https://user-images.githubusercontent.com/91760639/187059008-e133a332-6208-42a2-9c95-1d899f8e31db.jpg)
 
